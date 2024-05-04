@@ -9,6 +9,10 @@ This repository contains the Python notebooks and data used for the time series 
 
 The primary focus of this project is to analyze the historical electricity prices to ultimate customers in the residential sector. Using various time series techniques, we explore underlying patterns such as seasonality and trends, and develop models to forecast future prices.
 
+All data was downloaded from: 
+https://www.eia.gov/totalenergy/data/monthly/
+
+
 ## Files
 
 - `data/`: This directory contains the datasets used in the analyses.
