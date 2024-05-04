@@ -18,6 +18,9 @@ https://www.eia.gov/totalenergy/data/monthly/
 - `data/`: This directory contains the datasets used in the analyses.
 - the ipynb file has all the code, it's a single file.
 
+External files:
+- The slides are here: https://docs.google.com/presentation/d/11X3lJwTIhN7ZAIopgQxgG4Z0oL77fhlx8hKztGUL4b8/edit?usp=sharing
+- 
 ## Installation
 
 To run the notebooks locally, you will need Python and Jupyter installed. It is recommended to use a virtual environment. 
